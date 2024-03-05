@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @no-regret666
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning 数据结构.
-- 📫 How to reach me highfresh188@gmail.com
+- 🌱 I’m currently learning 数据结构 and 面向对象.
 - 😄 Pronouns: noregret
 
 <!---
