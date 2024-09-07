@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @no-regret666
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning 数据结构 and 面向对象.
+- 🌱 I’m currently learning golang.
 - 😄 Pronouns: noregret
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no-regret666&layout=compact)
