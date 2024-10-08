@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @no-regret666
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning golang.
+- 🌱 I’m currently learning MIT6.824.
 - 😄 Pronouns: noregret
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no-regret666&layout=compact)
