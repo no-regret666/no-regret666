@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @no-regret666
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning MIT6.824.
+- 🌱 I’m currently learning server.
 - 😄 Pronouns: noregret
 
 ### :zap: Github Stats
